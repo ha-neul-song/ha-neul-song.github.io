@@ -58,7 +58,7 @@ education:
 ########################################################################
 experience:
 - name: Seoul National University
-  logo: /assets/images/empty_300x200.png
+  logo: /assets/images/badges/SNU.png
   position: Research Assistant
   date: 2021 - 2022
 - name: Samsung Medical Center
