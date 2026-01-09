@@ -45,12 +45,12 @@ education:
   date: 2022 - present
 - name: KAIST (South Korea)
   logo: #/assets/images/badges/PKU_red.png
-  position: M.S. in Bio and Brain Engineering
+  position: M.S. in Bio and Brain Engineering <br/>
   date: 2019 - 2021
 - name: Korea University (South Korea)
   logo: #/assets/images/badges/PKU_red.png
   position: B.E. in Biomedical Engineering 
-            B.A. in Psychology
+            B.A. in Psychology <br/>
   date: 2013 - 2019
 
 # experience:
