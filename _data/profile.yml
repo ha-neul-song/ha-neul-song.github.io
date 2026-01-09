@@ -57,15 +57,15 @@ education:
 
 ########################################################################
 experience:
-- name: Seoul National University, South Korea
+- name: Seoul National University
   logo: /assets/images/empty_300x200.png
   position: Research Assistant
   date: 2021 - 2022
-- name: Samsung Medical Center, South Korea
+- name: Samsung Medical Center
   logo: /assets/images/empty_300x200.png
   position: Research Collaborator (On-site Experiments)
   date: 2019 - 2022
-- name: Korea University, South Korea
+- name: Korea University
   logo: /assets/images/empty_300x200.png
   position: Research Intern
   date: 2017
@@ -90,4 +90,6 @@ awards:
   date: 2019
 - name: Semester High Honors (7 out of 8 semesters), Korea University 
   date: 2016-2018, 2013
-
+- name: Korea International Medical & Hospital Equipment Show Scholarship, Korea E&EX Inc. 
+  date: 2016
+  
