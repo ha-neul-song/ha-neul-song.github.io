@@ -44,7 +44,7 @@ education:
   date: 2022 - present
 - name: KAIST, Daejeon, South Korea
   logo: /assets/images/photos/portrait.jpg
-  position: M.S. in Bio and Brain Engineering
+  position: M.S. in Bio and Brain Engineering <br/>
             Advised by Sang Ah Lee, PhD
   date: 2019 - 2021
 - name: Korea University, Seoul, South Korea
