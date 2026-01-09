@@ -37,16 +37,15 @@ portrait_url: /assets/images/photos/portrait.jpg
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Icahn School of Medicine at Mount Sinai (USA)
+- name: Icahn School of Medicine at Mount Sinai, NY, USA
   logo: /assets/images/badges/MIT_Social_circle.png
-  position: Biomedical Sciences <br/>
-    Ph.D. Student
+  position: Ph.D. Student in Biomedical Sciences
   date: 2022 - present
-- name: KAIST (South Korea)
+- name: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
   logo: /assets/images/badges/MIT_Social_circle.png
   position: M.S. in Bio and Brain Engineering
   date: 2019 - 2021
-- name: Korea University (South Korea)
+- name: Korea University, Seoul, South Korea)
   logo: /assets/images/badges/MIT_Social_circle.png
   position: B.E. in Biomedical Engineering <br/>
             B.A. in Psychology
