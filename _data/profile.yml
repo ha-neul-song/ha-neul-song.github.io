@@ -40,7 +40,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 ########################################################################
 education:
 - name: Icahn School of Medicine at Mount Sinai, NY, USA
-  logo: /assets/images/empty_300x200.png
+  logo: /assets/images/badges/ISMMS.png
   position: Ph.D. Student in Biomedical Sciences <br/>
             Advised by Helen S Mayberg, MD; Ki Sueng Choi, PhD
   date: 2022 - present
