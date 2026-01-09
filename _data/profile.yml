@@ -59,6 +59,12 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
+experience:
+- name: Seoul National University
+  logo: /assets/images/photos/portrait.jpg
+  position: Research Assistant
+  date: 2021 - 2022
+
 awards:
 - name: Award Name 2
   date: 2024
