@@ -5,7 +5,7 @@ navbar_name: "XX"
 positions:
 - name: PhD Candiate
 - name: Icahn School of Medicine at Mount Sinai 
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+# logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "your@email.com"
@@ -22,7 +22,8 @@ linkedin: your-linked-in-id
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+#    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Clinical/Affective/Cognitive Neuroscience/Neuroengineering  
   </p>
   <p>
     There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
