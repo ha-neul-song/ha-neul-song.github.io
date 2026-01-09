@@ -40,17 +40,17 @@ portrait_url: /assets/images/photos/portrait.jpg
 ########################################################################
 education:
 - name: Icahn School of Medicine at Mount Sinai, NY, USA
-  logo: /assets/images/photos/portrait.jpg
+  logo: /assets/images/empty_300x200.png
   position: Ph.D. Student in Biomedical Sciences <br/>
             Advised by Helen S Mayberg, MD; Ki Sueng Choi, PhD
   date: 2022 - present
 - name: KAIST, Daejeon, South Korea
-  logo: /assets/images/photos/portrait.jpg
+  logo: /assets/images/empty_300x200.png
   position: M.S. in Bio and Brain Engineering <br/>
             Advised by Sang Ah Lee, PhD
   date: 2019 - 2021
 - name: Korea University, Seoul, South Korea
-  logo: /assets/images/photos/portrait.jpg
+  logo: /assets/images/empty_300x200.png
   position: B.E. in Biomedical Engineering <br/>
             B.A. in Psychology
   date: 2013 - 2019
@@ -58,15 +58,15 @@ education:
 ########################################################################
 experience:
 - name: Seoul National University, South Korea
-  logo: /assets/images/photos/portrait.jpg
+  logo: /assets/images/empty_300x200.png
   position: Research Assistant
   date: 2021 - 2022
 - name: Samsung Medical Center, South Korea
-  logo: 
+  logo: /assets/images/empty_300x200.png
   position: Research Collaborator (On-site Experiments)
   date: 2019 - 2022
 - name: Korea University, South Korea
-  logo: 
+  logo: /assets/images/empty_300x200.png
   position: Research Intern
   date: 2017
 
@@ -74,7 +74,7 @@ experience:
 awards:
 - name: Best Presentation Award (2nd place), International Society for Tractography Conference
   date: 2025
-- name: Award Name 1 
+- name: Best Poster Award, Mount Sinai BMEII Symposium
   date: 2021
 - name: A quick brown fox jumps over the lazy dog and runs away award
   date: 2021
