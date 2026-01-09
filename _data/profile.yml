@@ -41,8 +41,8 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: Icahn School of Medicine at Mount Sinai, NY, USA
   logo: /assets/images/badges/ISMMS.png
-  position: Ph.D. Student in Biomedical Sciences <br/>
-            Advised by Helen S Mayberg, MD; Ki Sueng Choi, PhD <br/>
+  position: <p> Ph.D. Student in Biomedical Sciences <br/>
+            Advised by Helen S Mayberg, MD; Ki Sueng Choi, PhD </p>
   date: 2022 - present
 - name: KAIST, Daejeon, South Korea
   logo: /assets/images/badges/KAIST.png
