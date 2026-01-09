@@ -4,8 +4,8 @@ navbar_name: "XX"
 
 positions:
 - name: PhD Candiate
-- name: Icahn School of Medicine at Mount Sinai 
-  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Icahn School of Medicine at Mount Sinai  
+  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "your@email.com"
