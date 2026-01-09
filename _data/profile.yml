@@ -48,12 +48,12 @@ education:
   logo: /assets/images/badges/KAIST.png
   position: <p> M.S. in Bio and Brain Engineering <br/>
             Advised by Sang Ah Lee, PhD </p>
-  date: 2019 - 2021
+  date: <p> 2019 - 2021 </p>
 - name: Korea University, Seoul, South Korea
   logo: /assets/images/badges/KU2.gif
   position: <p> B.E. in Biomedical Engineering <br/>
             B.A. in Psychology </p>
-  date: 2013 - 2019
+  date: <p> 2013 - 2019 </p>
 
 ########################################################################
 experience:
