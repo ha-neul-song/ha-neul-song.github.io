@@ -57,17 +57,17 @@ education:
 
 ########################################################################
 experience:
-- name: Seoul National University
+- name: Research Assistant
   logo: /assets/images/badges/SNU.png
-  position: Research Assistant
+  position: Seoul National University
   date: 2021 - 2022
-- name: Samsung Medical Center
-  logo: /assets/images/badges/SMC.png
-  position: Research Collaborator (On-site Experiments)
+- name: Research Collaborator (On-site Experiments)
+  logo: /assets/images/badges/SMC2.png
+  position: Samsung Medical Center
   date: 2019 - 2022
-- name: Korea University
+- name: Research Intern
   logo: /assets/images/badges/KU2.gif
-  position: Research Intern
+  position: Korea University
   date: 2017
 
 ########################################################################
