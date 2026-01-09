@@ -12,7 +12,7 @@ abstract: >-
   abstract contents test.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Song,H.N.*#
+  - Song,H.N.
   - Choi,K.S.
   - Mayberg,H.S.
 #links:
