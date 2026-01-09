@@ -39,8 +39,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: Icahn School of Medicine at Mount Sinai (USA)
   logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Biomedical Sciences <br/>
+  position: Biomedical Sciences <br/>
     Ph.D. Student
   date: 2022 - present
 - name: KAIST (South Korea)
@@ -49,7 +48,7 @@ education:
   date: 2019 - 2021
 - name: Korea University (South Korea)
   logo: /assets/images/badges/MIT_Social_circle.png
-  position: B.E. in Biomedical Engineering </p>
+  position: B.E. in Biomedical Engineering <p>
             B.A. in Psychology <br/>
   date: 2013 - 2019
 
