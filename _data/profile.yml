@@ -42,7 +42,7 @@ education:
 - name: Icahn School of Medicine at Mount Sinai, NY, USA
   logo: /assets/images/badges/ISMMS.png
   position: Ph.D. Student in Biomedical Sciences <br/>
-            Advised by Helen S Mayberg, MD; Ki Sueng Choi, PhD
+            Advised by Helen S Mayberg, MD; Ki Sueng Choi, PhD <br/>
   date: 2022 - present
 - name: KAIST, Daejeon, South Korea
   logo: /assets/images/badges/KAIST.gif
@@ -89,7 +89,7 @@ awards:
 - name: Valedictorian (Highest Honor Graduation), Korea University 
   date: 2019
 - name: Semester High Honors (7 out of 8 semesters), Korea University 
-  date: 2016-2018, 2013
+  date: 2013, 2016-2018
 - name: Korea International Medical & Hospital Equipment Show Scholarship, Korea E&EX Inc. 
   date: 2016
   
