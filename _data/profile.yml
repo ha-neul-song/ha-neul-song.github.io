@@ -71,8 +71,8 @@ experience:
   date: 2019 - 2022
 - name: Research Intern
   logo: /assets/images/badges/KU2.gif
-  position: Korea University
-  date: 2017
+  position: <p> Korea University </p>
+  date: <p> 2017 </p>
 
 ########################################################################
 awards:
