@@ -51,13 +51,13 @@ education:
 - name: KAIST, Daejeon, South Korea
   logo: /assets/images/badges/KAIST.png
   position: <p> M.S. in Bio and Brain Engineering <br/>
-            Advised by Sang Ah Lee, PhD </p>
+            Advised by <strong>Sang Ah Lee, PhD</strong> </p>
   date: <p> 2019 - 2021 </p>
 - name: Korea University, Seoul, South Korea
   logo: /assets/images/badges/KU2.gif
   position: <p> B.E. in Biomedical Engineering <br/>
             B.A. in Psychology <br/>
-            Valedictorian (Highest Honor Graduation) </p>
+            <strong>Valedictorian (Highest Honor Graduation)</strong> </p>
   date: <p> 2013 - 2019 </p>
 
 ########################################################################
