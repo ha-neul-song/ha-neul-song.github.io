@@ -64,17 +64,17 @@ education:
 experience:
 - name: Research Assistant
   logo: /assets/images/badges/SNU.png
-  position: Seoul National University
+  position: Seoul National University, Seoul, South Korea
   date: 2021 - 2022
-- name: Research Collaborator
+- name: Research Collaborator, Seoul, South Korea
   logo: /assets/images/badges/SMC2.png
   position: Samsung Medical Center
   date: 2019 - 2022
-- name: Exchange Student
+- name: Exchange Student, VT, USA
   logo: /assets/images/badges/UVM.jpeg
   position: University of Vermont
   date: 2018
-- name: Research Intern
+- name: Research Intern, Seoul, South Korea
   logo: /assets/images/badges/KU2.gif
   position: <p> Korea University </p>
   date: <p> 2017 </p>
