@@ -7,11 +7,20 @@ body_attr: >-
 ---
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign years = pubs | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
   <div class="col-12 col-lg-10">
     <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+      {% assign prev_year = "" %}
+
       {% for item in pubs %}
+        {% assign this_year = item.date | date: "%Y" %}
+        {% if this_year != prev_year %}
+          <div id="year-{{ this_year }}" style="position: relative; top: -60px; height: 0;"></div>
+          {% assign prev_year = this_year %}
+        {% endif %}
+
         {% include widgets/publication_item.html
             item=item
             hide_cover=true
@@ -21,7 +30,16 @@ body_attr: >-
       {% endfor %}
     </div>
   </div>
+
+  <div class="col-2 d-none d-lg-block">
+    <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+      {% for y in years %}
+        <a class="nav-link d-block" href="#year-{{ y.name }}">{{ y.name }}</a>
+      {% endfor %}
+    </div>
+  </div>
 </div>
+
 
 
 
