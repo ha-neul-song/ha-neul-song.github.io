@@ -66,17 +66,17 @@ experience:
   logo: /assets/images/badges/SNU.png
   position: Seoul National University, Seoul, South Korea
   date: 2021 - 2022
-- name: Research Collaborator, Seoul, South Korea
+- name: Research Collaborator
   logo: /assets/images/badges/SMC2.png
-  position: Samsung Medical Center
+  position: Samsung Medical Center, Seoul, South Korea
   date: 2019 - 2022
-- name: Exchange Student, VT, USA
+- name: Exchange Student
   logo: /assets/images/badges/UVM.jpeg
-  position: University of Vermont
+  position: University of Vermont, VT, USA
   date: 2018
-- name: Research Intern, Seoul, South Korea
+- name: Research Intern
   logo: /assets/images/badges/KU2.gif
-  position: <p> Korea University </p>
+  position: <p> Korea University, Seoul, South Korea </p>
   date: <p> 2017 </p>
 
 ########################################################################
