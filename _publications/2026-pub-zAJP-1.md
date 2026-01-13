@@ -1,5 +1,5 @@
 ---
-title:          "Connectomic Determinants of Subcallosal Cingulate Deep Brain Stimulation for Depression"
+title:          "Connectomic determinants of subcallosal cingulate deep brain stimulation for depression"
 date:           2026-13-00 00:01:00 +0100
 selected:       true
 pub:            Under Review

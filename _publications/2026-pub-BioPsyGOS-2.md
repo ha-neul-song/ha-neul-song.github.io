@@ -1,5 +1,5 @@
 ---
-title:          "Electrophysiological Biomarkers Reflect Target Engagement and Response Using Deep Brain Stimulation for Obsessive-Compulsive Disorder"
+title:          "Electrophysiological biomarkers reflect target engagement and response using deep brain stimulation for obsessive-compulsive disorder"
 date:           2026-01-00 00:01:00 +0100
 selected:       false
 pub:            Biological Psychiatry Global Open Science
