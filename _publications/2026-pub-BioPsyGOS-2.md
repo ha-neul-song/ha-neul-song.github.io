@@ -1,6 +1,6 @@
 ---
 title:          "Electrophysiological biomarkers reflect target engagement and response using deep brain stimulation for obsessive-compulsive disorder"
-date:           2026-01-00 00:01:00 +0100
+date:           2026-01-01 00:01:00 +0100
 selected:       false
 pub:            Biological Psychiatry Global Open Science
 pub_date:       2026
