@@ -6,7 +6,7 @@ pub:            American Journal of Neuroradiology
 pub_date:       2026
 
 authors:
-  - Chung, S., 
+  - Chung, S. 
   - Song, H. N.
   - Subramaniam, V. R., Storey, P., Shin, S.-H., Shepherd, T. M., Lui, Y. W., Wang, Y., Mogilner, A., Kopell, B. H., & Choi, K. S.
 
