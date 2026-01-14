@@ -3,7 +3,7 @@ title:          "Connectomic determinants of subcallosal cingulate deep brain st
 date:           2026-12-01 00:01:00 
 selected:       true
 pub:            
-pub_date:       2026
+pub_date:       under review
 
 authors:
   - Song, H. N.

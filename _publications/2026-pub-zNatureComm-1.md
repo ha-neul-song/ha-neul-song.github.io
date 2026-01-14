@@ -3,8 +3,7 @@ title:          "Toward personalized deep brain stimulation: white matter stimul
 date:           2026-12-01 00:01:00 
 selected:       true
 pub:            
-pub_date:       2026
-#pub_post:       'Under Review'
+pub_date:       under review
 
 authors:
   - Song, H. N.

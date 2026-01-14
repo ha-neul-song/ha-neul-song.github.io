@@ -6,15 +6,63 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-
 {% assign pubs = site.publications | sort: "date" | reverse %}
-{% assign pubs_by_year = pubs | group_by_exp: "item", "item.date | default: '1900-01-01' | date: '%Y'" %}
+
+{%- comment -%}
+  1) Special sections by pub_date string
+{%- endcomment -%}
+{% assign under_review = pubs | where: "pub_date", "under review" %}
+{% assign in_prep      = pubs | where: "pub_date", "in prep" %}
+
+{%- comment -%}
+  2) The rest (everything except those)
+{%- endcomment -%}
+{% assign main_pubs = "" | split: "" %}
+{% for item in pubs %}
+  {% if item.pub_date != "under review" and item.pub_date != "in prep" %}
+    {% assign main_pubs = main_pubs | push: item %}
+  {% endif %}
+{% endfor %}
+
+{%- comment -%}
+  3) Group the rest by year using date (stable)
+{%- endcomment -%}
+{% assign pubs_by_year = main_pubs | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
   <div class="col-12 col-lg-10">
+
+    {% if under_review.size > 0 %}
+      <h2 class="pt-4">Under Review</h2>
+      <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+        {% for item in under_review %}
+          {% include widgets/publication_item.html
+              item=item
+              hide_cover=true
+              hide_bottom_border=forloop.last
+              first=forloop.first
+              last=forloop.last %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if in_prep.size > 0 %}
+      <h2 class="pt-4">In Preparation</h2>
+      <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+        {% for item in in_prep %}
+          {% include widgets/publication_item.html
+              item=item
+              hide_cover=true
+              hide_bottom_border=forloop.last
+              first=forloop.first
+              last=forloop.last %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
     {% for year in pubs_by_year %}
 <!--      <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>-->
-      <div id="year-{{ year.name }}" style="position: relative; top: -45px;"></div>
+      <div id="year-{{ year.name }}" style="position: relative; top: -45px; height: 0;"></div>
       <h2 class="pt-4">{{ year.name }}</h2>
 
       <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
@@ -28,6 +76,7 @@ body_attr: >-
         {% endfor %}
       </div>
     {% endfor %}
+
   </div>
 
   <div class="col-2 d-none d-lg-block">
@@ -38,34 +87,3 @@ body_attr: >-
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
-<!--{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}-->
-<!---->
-<!--<div class="row">-->
-<!--    <div class="col-12 col-lg-10">-->
-<!--        {% for year in pubs_by_year %}-->
-<!--        {% assign num_papers = year.items | size %}-->
-<!--        <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>-->
-<!--        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">-->
-<!--            {% for item in year.items %}-->
-<!--                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}-->
-<!--            {% endfor %}-->
-<!--        </div>-->
-<!--        {% endfor %}-->
-<!--    </div>-->
-<!---->
-<!--    <div class="col-2 d-none d-lg-block">-->
-<!--        <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">-->
-<!--            {% for year in pubs_by_year %}-->
-<!--            <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>-->
-<!--            {% endfor %}-->
-<!--        </div>-->
-<!--    </div>-->
-<!---->
-<!--</div>-->
