@@ -1,6 +1,6 @@
 ---
 title:          "Toward personalized deep brain stimulation: white matter stimulation and microstructure underlying individual response in depression"
-date:           2026-13-00 00:01:00 +0100
+date:           2026-12-00 00:01:00 +0100
 selected:       true
 #pub:            
 #pub_date:       Under Review
