@@ -1,7 +1,7 @@
 ---
 title:          Co-stimulating the left vmPFC compensates for apathy after levodopa withdrawal in Parkinson's patients with STN DBS
 
-date:           2025-02-01 00:01:00 +0100
+date:           2025-02-01 00:01:00 
 selected:       false
 pub:            Parkinsonism & Related Disorders
 pub_date:       2025

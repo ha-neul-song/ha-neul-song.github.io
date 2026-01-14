@@ -1,6 +1,6 @@
 ---
 title:          Local neuroanatomical and tract-based proxies of optimal subcallosal cingulate deep brain stimulation
-date:           2023-09-01 00:01:00 +0100
+date:           2023-09-01 00:01:00 
 selected:       false
 pub:            Brain Stimulation
 pub_date:       2023

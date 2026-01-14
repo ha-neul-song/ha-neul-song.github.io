@@ -1,6 +1,6 @@
 ---
 title:          "Deep brain stimulation for obsessive-compulsive disorder: evolution of tractography-based targeting"
-date:           2025-10-31 00:01:00 +0100
+date:           2025-10-31 00:01:00 
 selected:       false
 pub:            Journal of Neurosurgery
 pub_date:       2025

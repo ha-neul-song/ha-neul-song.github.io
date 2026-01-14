@@ -1,6 +1,6 @@
 ---
 title:          "Direct localization of the VIM/DRTT using quantitative susceptibility mapping in essential tremor: a pilot MRI study"
-date:           2026-01-01 00:01:00 +0100
+date:           2026-01-01 00:01:00 
 selected:       false
 pub:            American Journal of Neuroradiology
 pub_date:       2026

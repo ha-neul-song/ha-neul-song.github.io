@@ -1,6 +1,6 @@
 ---
 title:          "Proceedings of the 12th annual deep brain stimulation think tank: cutting edge technology meets novel applications"
-date:           2025-02-25 00:01:00 +0100
+date:           2025-02-25 00:01:00 
 selected:       false
 pub:            Frontiers in Human Neuroscience
 pub_date:       2025

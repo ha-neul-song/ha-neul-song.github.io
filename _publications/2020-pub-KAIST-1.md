@@ -1,6 +1,6 @@
 ---
 title:          "Deconstructing meditation into its neurocognitive components"
-date:           2020-01-31 00:01:00 +0100
+date:           2020-01-31 00:01:00
 selected:       false
 pub:            "KAIST Library"
 pub_date:       "2020"

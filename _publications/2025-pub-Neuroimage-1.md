@@ -1,7 +1,7 @@
 ---
 title:          Stimulation of the anterior thalamus modulates behavior in multiple cognitive domains
 
-date:           2025-04-01 00:01:00 +0100
+date:           2025-04-01 00:01:00 
 selected:       true
 pub:            Neuroimage
 pub_date:       2025
