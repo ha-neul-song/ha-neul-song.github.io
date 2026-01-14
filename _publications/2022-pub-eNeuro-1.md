@@ -1,6 +1,6 @@
 ---
 title:          Electrophysiological responses to rapidly-presented affective stimuli predict individual differences in subsequent attention
-date:           2022-01-01 00:01:00 +0100
+date:           2022-01-01 00:01:00
 selected:       false
 pub:            eNeuro
 pub_date:       2022
