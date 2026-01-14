@@ -2,13 +2,13 @@
 title:          "Toward personalized deep brain stimulation: white matter stimulation and microstructure underlying individual response in depression"
 date:           2026-12-00 00:01:00 +0100
 selected:       true
-#pub:            
-#pub_date:       Under Review
-pub_post:       'Under Review'
+pub:            
+pub_date:       2026
+#pub_post:       'Under Review'
 
 authors:
   - Song, H. N.
-  - Choi, K. S., 
+  - Choi, K. S.
   - ...
   - Mayberg, H. S. 
 

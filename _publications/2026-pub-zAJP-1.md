@@ -2,12 +2,12 @@
 title:          "Connectomic determinants of subcallosal cingulate deep brain stimulation for depression"
 date:           2026-12-00 00:01:00 +0100
 selected:       true
-pub:            Under Review
-pub_date:       
+pub:            
+pub_date:       2026
 
 authors:
   - Song, H. N.
-  - Choi, K. S., 
+  - Choi, K. S. 
   - ...
   - Mayberg, H. S. 
 
