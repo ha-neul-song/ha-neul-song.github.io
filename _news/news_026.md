@@ -1,4 +1,4 @@
 ---
-title: o Visited Washington DC for the BRAIN Initiative Conference
+title: o Attended the the BRAIN Initiative Conference, Washington, DC
 date: 2024-06-17
 ---

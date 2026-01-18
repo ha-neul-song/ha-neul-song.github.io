@@ -56,7 +56,7 @@ education:
   logo: /assets/images/badges/KU2.gif
   position: <p> B.E. in Biomedical Engineering <br/>
             B.A. in Psychology <br/>
-            <strong><em>Valedictorian (Highest Honor Graduation)</em></strong> </p>
+            <strong><em>Valedictorian (Highest Honors)</em></strong> </p>
   date: <p> 2013 - 2019 </p>
 
 ########################################################################
@@ -94,7 +94,7 @@ awards:
   date: 2020
 - name: Best Poster Award, Korean Society for EEG and Neurophysiology
   date: 2019
-- name: Valedictorian (Highest Honor Graduation), Korea University 
+- name: Valedictorian (Highest Honors), Korea University Graduation
   date: 2019
 - name: Semester High Honors (7 out of 8 semesters), Korea University 
   date: 2013, 2016-2018

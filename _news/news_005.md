@@ -1,4 +1,4 @@
 ---
-title: o Joined Min Lab (Brain & Cognitive Engineering, Korea University) as a research intern studying brain-machine interface
+title: o Joined Min Lab as a Research Intern, Brain & Cognitive Engineering, Korea University
 date: 2017-09-01
 ---

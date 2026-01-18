@@ -1,4 +1,4 @@
 ---
-title: o Visited Lisbon (Portugal) for the Brain Stimulation Conference
+title: o Attended the Brain Stimulation Conference, Lisbon, Portugal
 date: 2023-02-19
 ---

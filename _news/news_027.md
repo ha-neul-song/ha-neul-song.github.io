@@ -1,4 +1,4 @@
 ---
-title: o Visited South Korea for OHBM
+title: o Attended OHBM, South Korea
 date: 2024-06-22
 ---

@@ -1,4 +1,4 @@
 ---
-title: o Visited Chicago for SfN
+title: o Attended SfN, Chicago
 date: 2019-10-22
 ---

@@ -1,4 +1,4 @@
 ---
-title: o Domestic Habitat Volunteer (South Korea)
+title: o Domestic Habitat Volunteer, South Korea
 date: 2016-07-03
 ---
