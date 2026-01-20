@@ -5,7 +5,6 @@ date: 1017-01-14 00:01:00 +0800
 ---
 <div class="p-6 text-center">
 
-
 $$
 y_{ij}
 = \beta_0 + \beta_1 x_{ij}
