@@ -1,7 +1,7 @@
 ---
 show: false
 width: 4
-date: 2020-01-12 00:01:00 +0800
+date: 1018-01-01 00:08:00 +0800
 ---
 <div>
   <img data-src="https://api.star-history.com/svg?repos=luost26/academic-homepage&type=Date" class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">

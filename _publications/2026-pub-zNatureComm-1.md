@@ -1,9 +1,9 @@
 ---
-title:          "Toward personalized deep brain stimulation: white matter stimulation and microstructure underlying individual response in depression"
-date:           2026-12-01 00:01:00 
+title:          "Toward Personalized Deep Brain Stimulation via White Matter Stimulation and Microstructure in depression"
+date:           2026-06-01 00:01:00 
 selected:       true
-pub:            
-pub_date:       under review
+pub:            Nature Communications
+pub_date:       2026 (Accepted)
 
 authors:
   - Song, H. N.
