@@ -1,5 +1,5 @@
 ---
-title:          "Toward Personalized Deep Brain Stimulation via White Matter Stimulation and Microstructure in depression"
+title:          "Toward personalized deep brain stimulation via white matter stimulation and microstructure in depression"
 date:           2026-06-01 00:01:00 
 selected:       true
 pub:            Nature Communications

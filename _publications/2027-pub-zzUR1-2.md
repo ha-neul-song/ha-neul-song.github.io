@@ -8,7 +8,7 @@ pub_date:       under review
 authors:
   - Shevlin, B. R. K., Fu, Q. X., Batten, S. R., Kopell, B. H., Neal Davis, A., Heflin, M., Heisig, S., Rozell, C. J., Kato, A., Kulkarni, K. R., Choi, K. S.
   - Song, H. N.
-  - O’Neill, S., Nauvel, T., Trivedi, I., White, J. P., Lohrenz, T., Figee, M., Twomey, T., …, Gu, X.
+  - O’Neill, S., Nauvel, T., Trivedi, I., White, J. P., Lohrenz, T., Figee, M., Twomey, T., …, Mayberg, H. S., Gu, X.
    
 
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>' 

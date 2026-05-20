@@ -1,5 +1,5 @@
 ---
-title:          "Common Electrophysiology Biomarkers Collected at Home Robustly Track Depression Recovery With Deep Brain Stimulation."
+title:          "Common electrophysiology biomarkers collected at home robustly track depression recovery with deep brain stimulation."
 date:           2027-09-01 00:01:00 
 selected:       false
 pub:            

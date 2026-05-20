@@ -1,5 +1,5 @@
 ---
-title:          "Longitudinal Changes in Cortical Response Dynamics with Deep Brain Stimulation to the Subcallosal Cingulate for Treatment-Resistant Depression"
+title:          "Longitudinal changes in cortical response dynamics with deep brain stimulation to the subcallosal cingulate for treatment-resistant depression"
 date:           2027-11-01 00:01:00 
 selected:       false
 pub:            
@@ -8,7 +8,7 @@ pub_date:       under review
 authors:
   - Desai, A., Van Bogaert, T., Choi, K. S.
   - Song, H. N.
-  - Cha, J., Alagapan, S., Xu, E., Dahill-Fuchel, J., Veerakumar, A., Kopell, B. H., Figee, M., Riva-Posse, P., Rozell, C. J., Mayberg, H., Waters, A. C.
+  - Cha, J., Alagapan, S., Xu, E., Dahill-Fuchel, J., Veerakumar, A., Kopell, B. H., Figee, M., Riva-Posse, P., Rozell, C. J., Mayberg, H. S., Waters, A. C.
    
 
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>' 
