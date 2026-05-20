@@ -8,7 +8,7 @@ pub_date:       under review
 authors:
   - Desai, A., Van Bogaert, T., Choi, K. S.
   - Song, H. N.
-  - Cha, J., Alagapan, S., Xu, E., Dahill-Fuchel, J., Veerakumar, A., Kopell, B. H., Figee, M., Riva-Posse, P., Rozell, C. J., Mayberg, H., & Waters, A. C.
+  - Cha, J., Alagapan, S., Xu, E., Dahill-Fuchel, J., Veerakumar, A., Kopell, B. H., Figee, M., Riva-Posse, P., Rozell, C. J., Mayberg, H., Waters, A. C.
    
 
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>' 

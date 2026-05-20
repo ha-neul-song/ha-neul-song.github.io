@@ -8,7 +8,7 @@ pub_date:       under review
 authors:
   - Imtiaz, Z., Kopell, B. H., Olson, S., Saez, I.
   - Song, H. N.
-  - Mayberg, H. S., Choi, K. S., Waters, A. C., Figee, M., & Smith, A. H.
+  - Mayberg, H. S., Choi, K. S., Waters, A. C., Figee, M., Smith, A. H.
    
 
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>' 

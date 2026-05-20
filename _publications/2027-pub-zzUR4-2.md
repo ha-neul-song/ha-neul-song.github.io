@@ -8,7 +8,7 @@ pub_date:       under review
 authors:
   - Fitoz, E. C., Alagapan, S., Cha, J., Choi, K. S., Figee, M., Kopell, B., Obatusin, M., Heisig, S., Nauvel, T., Razavilar, A., Sarikhani, P., Trivedi, I., Gowatsky, J., Alexander, J., Guignon, R., Khalid, M., Forestal, G. B.
   - Song, H. N.
-  - Denison, T.,…Rozell, C. J.
+  - Denison, T., …, Mayberg, H. S., Rozell, C. J.
    
 
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>' 
