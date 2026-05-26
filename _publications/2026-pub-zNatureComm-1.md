@@ -7,9 +7,7 @@ pub_date:       2026 (Accepted)
 
 authors:
   - Song, H. N.
-  - Choi, K. S.
-  - ...
-  - Mayberg, H. S. 
+  - Choi, K. S., Figee, M., Kopell, B. H., Riva-Posse, P., Cha, J., Gross, R. E., Mayberg, H. S.
 
  
 pub_last: >

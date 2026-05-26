@@ -7,9 +7,7 @@ pub_date:       2026 (Accepted)
 
 authors:
   - Song, H. N.
-  - Choi, K. S. 
-  - ...
-  - Mayberg, H. S. 
+  - Choi, K. S., Kopell, B. H., Figee, M., de Bruin, J., Cha, J., Riva-Posse, P., Boutet, A., Elias, G. J., Germann, J., Kennedy, S. H., Himes, L., Gross, R. E., Lozano, A. M., Cheeran, B.,  Mayberg, H. S.
 
 pub_last: >
   <span class="badge badge-pill badge-publication badge-success">Spotlight</span>
