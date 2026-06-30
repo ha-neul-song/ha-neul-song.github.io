@@ -10,7 +10,8 @@ authors:
   - Oh, S. 
   - Lee, S. A.
 
-#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>' 
+pub_last: >
+  <span class="badge badge-pill badge-publication badge-info">IF 3.4</span>
 <!--semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count-->
   
 links:

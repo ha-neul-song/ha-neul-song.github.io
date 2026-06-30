@@ -12,7 +12,7 @@ authors:
   
 pub_last: >
   <span class="badge badge-pill badge-publication badge-success">Spotlight</span>
-  <span class="badge badge-pill badge-publication badge-info">JCR Top 3.1%</span>
+  <span class="badge badge-pill badge-publication badge-info">IF 5.3</span>
 #  <span class="badge badge-pill badge-publication badge-primary">JCR Top ?%</span>
 
  
