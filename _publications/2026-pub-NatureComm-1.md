@@ -1,6 +1,6 @@
 ---
 title:          "Toward personalized deep brain stimulation via white matter stimulation and microstructure in depression"
-date:           2026-06-01 00:01:00 
+date:           2026-11-01 00:01:00 
 selected:       true
 pub:            Nature Communications
 pub_date:       2026 (Accepted)

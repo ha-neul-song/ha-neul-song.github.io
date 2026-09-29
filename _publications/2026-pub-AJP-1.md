@@ -1,6 +1,6 @@
 ---
 title:          "Connectomic determinants of subcallosal cingulate deep brain stimulation for depression"
-date:           2026-05-01 00:01:00 
+date:           2026-10-01 00:01:00 
 selected:       true
 pub:            American Journal of Psychiatry
 pub_date:       2026 (Accepted)

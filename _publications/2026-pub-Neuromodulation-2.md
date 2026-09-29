@@ -1,9 +1,9 @@
 ---
 title:          "Globus pallidus externus (GPe) alpha band activity decreases after deep brain stimulation in clinically responsive obsessive-compulsive disorder patients"
-date:           2027-10-01 00:01:00 
+date:           2026-09-27 00:01:00 
 selected:       false
-pub:            
-pub_date:       under review
+pub:            Neuromodulation, Technology at the Neural Interface
+pub_date:       2026
 
 authors:
   - Imtiaz, Z., Kopell, B. H., Olson, S., Saez, I.
