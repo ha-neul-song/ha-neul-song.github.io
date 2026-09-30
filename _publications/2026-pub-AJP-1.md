@@ -3,7 +3,7 @@ title:          "Connectomic determinants of subcallosal cingulate deep brain st
 date:           2026-10-01 00:01:00 
 selected:       true
 pub:            American Journal of Psychiatry
-pub_date:       2026 (Accepted)
+pub_date:       2026
 
 authors:
   - Song, H. N.
@@ -17,7 +17,8 @@ pub_last: >
 <!--semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count-->
   
 links:
-    #Code:
+    Paper: https://www.
+    Journal Cover: https://psychiatryonline.org/toc/ajp/183/10
     #Unsplash:
     
 ---

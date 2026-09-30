@@ -13,7 +13,7 @@ authors:
 pub_last: >
   <span class="badge badge-pill badge-publication badge-success">Spotlight</span>
   <span class="badge badge-pill badge-publication badge-info">IF 18.1</span>
-#  <span class="badge badge-pill badge-publication badge-primary">JCR Top ?%</span>
+<!--   <span class="badge badge-pill badge-publication badge-primary">Included in Nature Collection: <em>Innovative Methods for Treating Mental Disorders</em></span> -->
 
 
 <!--semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count-->
