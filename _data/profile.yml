@@ -44,9 +44,8 @@ portrait_url: /assets/images/photos/HN_profile.JPG # !!!
 education:
 - name: Icahn School of Medicine at Mount Sinai, NY, USA
   logo: /assets/images/badges/ISMMS.png
-  position: <p>Ph.D. in Biomedical Sciences <br/>Co-advised by <span id="coadvisors"></span></p><script>var a=['<strong>Helen S Mayberg, <em>MD</em></strong>','<strong>Ki Sueng Choi, <em>PhD</em></strong>'];if(Math.random()<.5)a.reverse();document.getElementById('coadvisors').innerHTML=a.join('; ');</script>
-#   position: <p> Ph.D. in Biomedical Sciences <br/>
-#             Co-advised by <strong>Helen S Mayberg, <em>MD</em></strong>; <strong>Ki Sueng Choi, <em>PhD</em></strong> </p>
+#   position: <p>Ph.D. in Biomedical Sciences (<em><strong>with Distinction</em></strong>) <br/>Co-advised by <span id="coadvisors"></span></p><script>var a=['<strong>Helen S Mayberg, <em>MD</em></strong>','<strong>Ki Sueng Choi, <em>PhD</em></strong>'];if(Math.random()<.5)a.reverse();document.getElementById('coadvisors').innerHTML=a.join('; ');</script>
+  position: <p> Ph.D. in Biomedical Sciences (<em><strong>with Distinction</em></strong>) <br/> Co-advised by <strong>Helen S Mayberg, <em>MD</em></strong>; <strong>Ki Sueng Choi, <em>PhD</em></strong> </p>
   date: <p> 2022 - 2026 </p>
 - name: KAIST, Daejeon, South Korea
   logo: /assets/images/badges/KAIST.png

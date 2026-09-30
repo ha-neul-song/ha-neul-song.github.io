@@ -1,4 +1,4 @@
 ---
-title: o Successfully defended my Ph.D. dissertation, <em>"Personalized Brain Stimulation for Treatment-Resistant Depression"</em>, <strong>with distinction</strong> 🎓, Biomedical Sciences, Icahn School of Medicine at Mount Sinai <span class="badge badge-pill badge-info badge-publication">Featured</span> 
-date: 2026-09-22
+title: o Attended the BRAIN Initiative Conference, Washington, DC
+date: 2026-08-12
 ---
