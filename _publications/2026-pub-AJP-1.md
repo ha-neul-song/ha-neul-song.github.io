@@ -18,7 +18,7 @@ pub_last: >
   
 links:
     Paper: https://psychiatryonline.org/doi/10.1176/appi.ajp.20250449
-    Journal Cover: https://psychiatryonline.org/toc/ajp/183/10
+    Journal Cover: https://psychiatryonline.org/loi/ajp/group/d2020.y2026
     #Unsplash:
     
 ---
