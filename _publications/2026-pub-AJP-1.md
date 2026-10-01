@@ -17,7 +17,7 @@ pub_last: >
 <!--semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count-->
   
 links:
-    Paper: https://www.
+    Paper: https://psychiatryonline.org/doi/10.1176/appi.ajp.20250449
     Journal Cover: https://psychiatryonline.org/toc/ajp/183/10
     #Unsplash:
     
