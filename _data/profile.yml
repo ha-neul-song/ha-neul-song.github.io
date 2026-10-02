@@ -3,7 +3,7 @@ secondary_name: "XX"
 navbar_name: "Song, H. N."
 
 positions:
-- name: Incoming Postdoc
+- name: Postdoctoral Fellow
 - name: Icahn School of Medicine at Mount Sinai  
   logo: /assets/images/badges/ISMMS.png  # Logo is optional
 
@@ -61,6 +61,10 @@ education:
 
 ########################################################################
 experience:
+- name: Postdoctoral Fellow
+  logo: /assets/images/badges/ISMMS.png
+  position: Icahn School of Medicine at Mount Sinai, NY, USA
+  date: 2026 - Present
 - name: Research Assistant
   logo: /assets/images/badges/SNU.png
   position: Seoul National University, Seoul, South Korea
