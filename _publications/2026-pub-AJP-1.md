@@ -19,6 +19,7 @@ pub_last: >
 links:
     Paper: https://psychiatryonline.org/doi/10.1176/appi.ajp.20250449
     Journal Cover: https://psychiatryonline.org/loi/ajp/group/d2020.y2026
+    Research Highlight: https://www.mountsinai.org/about/newsroom/2026/study-identifies-brain-pathways-linked-to-sustained-improvement-in-those-receiving-deep-brain-stimulation-for-treatment-resistant-depression
     #Unsplash:
     
 ---
