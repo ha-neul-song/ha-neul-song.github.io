@@ -1,4 +1,4 @@
 ---
-title: o Attended the International Society for Tractography Conference, Bordeaux, France <br> - <em><strong>Best Presentation Award (2nd Place)</strong></em>
+title: o Attended the International Society for Tractography Conference, Bordeaux, France <br> - <strong>Best Presentation Award (<em>2nd Place</em>)</strong>
 date: 2025-10-12
 ---
