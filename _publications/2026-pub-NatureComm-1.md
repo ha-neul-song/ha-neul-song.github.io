@@ -11,7 +11,7 @@ authors:
 
  
 pub_last: >
-  <span class="badge badge-pill badge-publication badge-success">Spotlight</span>
+  <span class="badge badge-pill badge-publication badge-success">First Author</span>
   <span class="badge badge-pill badge-publication badge-info">IF 18.1</span>
 <!--   <span class="badge badge-pill badge-publication badge-primary">Included in Nature Collection: <em>Innovative Methods for Treating Mental Disorders</em></span> -->
 

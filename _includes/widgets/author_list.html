@@ -33,6 +33,8 @@
 
     {%- if info['bold'] == true -%}
         {%- assign display_name = name | append: mark | prepend: "<strong>" | append: "</strong>" -%}
+<!-- 		{%- assign display_name = name | prepend: "<strong><u>" | append: "</u></strong>" | append: mark -%} -->
+<!-- 		{%- assign display_name = name | append: mark | prepend: '<strong style="text-decoration: none;">' | append: '</strong>' -%} -->
     {%- else -%}
         {%- assign display_name = name | append: mark -%}
     {%- endif -%}

@@ -10,9 +10,9 @@ authors:
   - Choi, K. S., Kopell, B. H., Figee, M., de Bruin, J., Cha, J., Riva-Posse, P., Boutet, A., Elias, G. J., Germann, J., Kennedy, S. H., Himes, L., Gross, R. E., Lozano, A. M., Cheeran, B.,  Mayberg, H. S.
 
 pub_last: >
-  <span class="badge badge-pill badge-publication badge-success">Spotlight</span>
+  <span class="badge badge-pill badge-publication badge-success">First Author</span>
   <span class="badge badge-pill badge-publication badge-info">IF 15.9</span>
-  <span class="badge badge-pill badge-publication badge-primary">Selected for Journal Cover</span> 
+  <span class="badge badge-pill badge-publication badge-primary">Journal Cover</span> 
 
 <!--semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count-->
   
@@ -20,6 +20,8 @@ links:
     Paper: https://psychiatryonline.org/doi/10.1176/appi.ajp.20250449
     Journal Cover: https://psychiatryonline.org/loi/ajp/group/d2020.y2026
     Research Highlight: https://www.mountsinai.org/about/newsroom/2026/study-identifies-brain-pathways-linked-to-sustained-improvement-in-those-receiving-deep-brain-stimulation-for-treatment-resistant-depression
+    ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261017230021.htm
+    Medical Xpress: https://medicalxpress.com/news/2026-10-deep-brain-links-multiple-pathways.html#google_vignette
     #Unsplash:
     
 ---

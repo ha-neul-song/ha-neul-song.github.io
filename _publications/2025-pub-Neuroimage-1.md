@@ -11,10 +11,10 @@ authors:
   - Rah, Y. J., Ryu, I. H., Shin, J. H., Lee, S., Shon, Y. M., Lee, S. A. 
   
 pub_last: >
-  <span class="badge badge-pill badge-publication badge-success">Spotlight</span>
+  <span class="badge badge-pill badge-publication badge-success">First Author</span>
   <span class="badge badge-pill badge-publication badge-info">IF 5.3</span>
 #  <span class="badge badge-pill badge-publication badge-primary">JCR Top ?%</span>
-
+#Spotlight
  
 <!--semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count-->
   
