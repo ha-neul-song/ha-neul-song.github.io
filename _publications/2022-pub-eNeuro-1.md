@@ -16,7 +16,7 @@ pub_last: >
 <!--semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count-->
   
 links:
-    Paper: https://www.eneuro.org/content/9/1/ENEURO.0285-21.2021
+    Paper: https://doi.org/10.1523/ENEURO.0285-21.2021
     #Code:
     #Unsplash:
     
