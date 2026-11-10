@@ -18,6 +18,10 @@
             
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                 {% for link in item.links %}
+                {% if link[0] == "Press Release" %}
+				<br>
+				{% endif %}
+                
                 {% if link[1].url %}
                 <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">[{{ link[0] }}]</a>
                 {% else %}
