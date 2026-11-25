@@ -1,13 +1,13 @@
-#---
+---
 title:          "Variability in white matter engagement challenges atlas-based DBS targeting in depression"
-date:           2028-11-02 00:01:00 
+date:           2027-07-02 00:01:00 
 selected:       false
 pub:            
-pub_date:       "in prep"
+pub_date:       under review
 
 authors:
   - Song, H. N.
-  - Kopell, B. H., Gross, R. E., Riva-Posse, P., Figee, M., Mayberg, H. S.
+  - Kopell, B. H., Gross, R. E., Riva-Posse, P., Figee, M., Cha, J., Mayberg, H. S.
   - Choi, K. S.
 
 pub_last: >
